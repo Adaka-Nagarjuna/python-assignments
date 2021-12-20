@@ -1,7 +1,8 @@
-x="Bright It carrer"
-for i in range(1,100):
-    print(x)
-hello this is adaka
+##
+a=10
+b=20 
+c=a+b
+print(c)
 
 
 
